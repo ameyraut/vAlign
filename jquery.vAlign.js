@@ -3,6 +3,7 @@
 	* This jQuery plugin to display HTMl element vercally center align.
 	* Amey Raut	
 	* vAlign.js 1.0
+	* https://github.com/ameyraut/vAlign
 	* Date: Thu Feb 28 14:23:00 2013  
  */
 
