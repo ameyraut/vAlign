@@ -21,7 +21,7 @@ Here is a simple vAlign setup:
 ```
 
 
-For <strong>child elements with images </strong> use window.onload to make sure images are loaded before plug-in function call.
+For <strong>child elements with images </strong> use window.onload to make sure images are loaded before the plug-in function call.
 
 ```html
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
