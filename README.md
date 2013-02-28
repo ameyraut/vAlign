@@ -32,3 +32,8 @@ For <strong>child elements with images </strong> use window.onload to make sure 
         });
   </script>
 ```
+
+Browser Support
+==================
+IE 7+ , Chrome, Mozilla, Safari, Opera 
+
