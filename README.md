@@ -33,6 +33,11 @@ For <strong>child elements with images </strong> use window.onload to make sure 
   </script>
 ```
 
+Demo 
+==================
+www.mindfreakerstuff.com/example/html/jquery-plugin-vertical-align.html
+
+
 Browser Support
 ==================
 IE 7+ , Chrome, Mozilla, Safari, Opera 
