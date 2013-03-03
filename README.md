@@ -6,7 +6,8 @@ jQuery Plug-in for responsive vertical center align block to the height of the p
 Usage
 ===== 
 
-Add height to paarent element. Use jQuery Selector to call plug-in
+1)Add height to parent element. 
+2)Use jQuery Selector to call plug-in
 
 Here is a simple vAlign setup:
 
